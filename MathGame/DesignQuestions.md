@@ -1,0 +1,2 @@
+# Design Questions
+This document is meant to compile a list of design choices made along the way of building a prototype for this game in python. It will provide some documented evidence on things that I learned while building it as well as the end result of some design choices. This should allow me to evaluate whether or not these were good choices at a future date.
